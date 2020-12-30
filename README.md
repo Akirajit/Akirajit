@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning FrontEnd programming.
-👯 I’m looking to change my career to become a FrontEnd developer.
-⚡ Skills:   * HTML
+- 🌱 I’m currently learning FrontEnd programming. 
+- ✨ I’m looking to change my career to become a FrontEnd developer.
+- ⚡ Skills:   * HTML
              * CSS
              * JavaScript
              * Bootstrap
