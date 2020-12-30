@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+🌱 I’m currently learning FrontEnd programming.
+👯 I’m looking to change my career to become a FrontEnd developer.
+⚡ Skills:   * HTML
+             * CSS
+             * JavaScript
+             * Bootstrap
+             * SASS
+             * React JS
+             * SQL
+             * Python (basics)
+
 <!--
 **Akirajit/Akirajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
