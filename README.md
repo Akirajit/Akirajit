@@ -1,27 +1,35 @@
-### Hi there 👋
+### Hi there, I'm Jonas Ivan Tsuchida 👋
 
-- 🌱 I’m currently learning Frontend programming. 
-- ✨ I’m looking to change my career to become a FrontEnd developer.
-- ⚡ Skills: * HTML
-             * CSS
-             * JavaScript
-             * Bootstrap
-             * SASS
-             * React JS
-             * SQL
-            
 
-<!--
-**Akirajit/Akirajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning React JS 🤣
+- 🥅 2021 Goal: Get my first FrontEnd or JavaScript related job
+- ⚡ Fun fact: I love to play guitar 
 
-Here are some ideas to get you started:
+### Contact me:
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620046107~hmac=0a8a8072987e1b847fcb562daa99888a" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/itsuchida/
+[vscode]: https://code.visualstudio.com/
+[html5]: https://www.w3schools.com/html/
+[css]: https://www.w3schools.com/css/
+[sass]: https://sass-lang.com/
+[javascript]: https://www.w3schools.com/js/
+[react]: https://reactjs.org/
+[node]: https://nodejs.org/en/
+[git]: https://git-scm.com/
