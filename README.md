@@ -1,4 +1,4 @@
-### Hi there, I'm Jonas Ivan Tsuchida 👋
+### Hi there, I'm  Ivan Tsuchida 👋
 
 
 - 🌱 I’m currently learning React JS 🤣
