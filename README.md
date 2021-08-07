@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to play guitar 
 
 ### Contact me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620046107~hmac=0a8a8072987e1b847fcb562daa99888a" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 
 <br />
