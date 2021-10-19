@@ -1,8 +1,7 @@
 ### Hi there, I'm  Ivan Tsuchida 👋
 
 
-- 🌱 I’m currently learning React JS 🤣
-- 🥅 2021 Goal: Get my first FrontEnd or JavaScript related job
+- 🌱 I’m currently learning Javascript and Python 🤣
 - ⚡ Fun fact: I love to play guitar 
 
 ### Contact me:
