@@ -1,7 +1,7 @@
 ### Hi there, I'm  Ivan Tsuchida 👋
 
 
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 Future Fullstack Developer
 - ⚡ Fun fact: I love to play guitar 
 
 ### Contact me:
