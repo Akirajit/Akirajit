@@ -2,7 +2,7 @@
 
 
 - 🌱 Fullstack Developer Jr.
-- 🤘 Fun fact: I also enjoy playing guitar on free times
+- 🤘 Fun fact: I also enjoy playing guitar on my free times
 
 ### Contact me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
