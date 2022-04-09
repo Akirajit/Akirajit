@@ -1,8 +1,8 @@
 ### Hi there, I'm  Ivan Tsuchida 👋
 
 
-- 🌱 Future Fullstack Developer
-- ⚡ Fun fact: I love to play guitar 
+- 🌱 Fullstack Developer Jr.
+- 🤘 Fun fact: I also enjoy playing guitar on free times
 
 ### Contact me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
