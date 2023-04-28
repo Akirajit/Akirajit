@@ -34,4 +34,4 @@
 [react]: https://reactjs.org/
 [node]: https://nodejs.org/en/
 [git]: https://git-scm.com/
-[python]: https://phyton.org
+[python]: https://python.org
